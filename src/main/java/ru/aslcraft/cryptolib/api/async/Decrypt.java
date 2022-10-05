@@ -1,7 +1,7 @@
 package ru.aslcraft.cryptolib.api.async;
 
 import ru.aslcraft.cryptolib.core.async.CryptoGo;
-import ru.zoommax.hul.HexUtils;
+import ru.zoommax.HexUtils;
 
 import java.nio.charset.StandardCharsets;
 

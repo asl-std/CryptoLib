@@ -2,7 +2,7 @@ package ru.aslcraft.cryptolib.api.async;
 
 import ru.aslcraft.cryptolib.api.async.objects.Keys;
 import ru.aslcraft.cryptolib.core.async.ECCKeyPairGenerator;
-import ru.zoommax.hul.HexUtils;
+import ru.zoommax.HexUtils;
 
 import java.security.KeyPair;
 import java.security.PrivateKey;

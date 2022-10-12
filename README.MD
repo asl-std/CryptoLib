@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/asl-std/CryptoLib?style=plastic)](https://github.com/asl-std/CryptoLib/issues)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/asl-std/CryptoLib/Build?style=plastic)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/asl-std/CryptoLib/Maven%20Central%20deploy?style=plastic)
-[![Maven Central](https://img.shields.io/maven-central/v/ru.aslcraft/cryptolib.svg?label=Maven%20Central&style=plastic)](https://search.maven.org/search?q=g:%22ru.aslcraft%22%20AND%20a:%22cryptolib%22)
+[![Maven Central](https://img.shields.io/maven-central/v/ru.aslcraft/CryptoLib.svg?label=Maven%20Central&style=plastic)](https://search.maven.org/search?q=g:%22ru.aslcraft%22%20AND%20a:%22CryptoLib%22)
 
 
 ### Dependencies

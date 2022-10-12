@@ -8,19 +8,23 @@
 
 ### Dependencies
 ![dependency maven](https://img.shields.io/badge/DEPENDENCY-Maven-C71A36?style=plastic&logo=apachemaven)
+
+![Maven Central](https://img.shields.io/maven-central/v/ru.aslcraft/CryptoLib?color=blue&label=version&style=plastic)
 ```xml
 <dependencies>
     <dependency>
         <groupId>ru.aslcraft</groupId>
         <artifactId>CryptoLib</artifactId>
-        <version>1.0</version>
+        <version>VERSION</version>
     </dependency>
 </dependencies>
 ```
 
 ![dependency gradle](https://img.shields.io/badge/DEPENDENCY-Gradle-02303A?style=plastic&logo=gradle)
+
+![Maven Central](https://img.shields.io/maven-central/v/ru.aslcraft/CryptoLib?color=blue&label=version&style=plastic)
 ```groovy
-implementation 'ru.aslcraft:CryptoLib:1.0'
+implementation 'ru.aslcraft:CryptoLib:VERSION'
 ```
 
 ### How to use
@@ -53,4 +57,4 @@ public class TestMain {
 ```
 
 ### P.S.
-Library work in progress
+Library work in progress!

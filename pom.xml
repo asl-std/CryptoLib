@@ -6,7 +6,7 @@
 
     <groupId>ru.aslcraft</groupId>
     <artifactId>CryptoLib</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <name>CryptoLib</name>
     <description>ASL cryptography library</description>
     <url>https://github.com/asl-std/CryptoLib</url>
